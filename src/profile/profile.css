@@ -1,0 +1,40 @@
+.prof{
+        margin-right: 25%;
+        margin-left: 25%;
+    }
+h3 {
+        background-color: #00695b;
+        color: white;
+        padding-top: 20px;
+        padding-bottom: 20px;
+      }
+h3:hover{
+        background-color: rgb(134, 251, 255);
+        color:#282c34;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+p{
+        text-align: justify;
+        text-justify: inter-word;
+        text-align: center;
+    }
+   
+.name{
+    margin-bottom: 15px;
+    margin-top: 15px;
+    padding-top: 15px;
+}
+.bio{
+        margin-bottom: 15px;
+        margin-top: 15px;
+    
+      }
+    
+.profession{
+        
+        margin-bottom: 15px;
+        margin-top: 15px;
+        padding-bottom: 30px;
+      }
+    
